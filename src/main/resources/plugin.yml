@@ -1,0 +1,4 @@
+name: EnduranceForge
+version: '1.0'
+main: sudark2.Sudark.enduranceForge.EnduranceForge
+api-version: '1.21'
